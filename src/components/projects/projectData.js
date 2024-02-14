@@ -11,7 +11,7 @@ export const projectDetails = [
         logo: doodleLogo,
         desc: 'Daily Doodle is a for fun web app that allows users to draw a daily prompt on a virtual canvas and quickly export their masterpiece. \n\nCreated with TypeScript and NextJS for practice and proficiency.',
         tags: 'TypeScript · React · CSS · NextJS ',
-        websiteURL: '',
+        websiteURL: 'dailydoodle.lol',
         repoURL: 'https://github.com/crewgamble/Daily-Doodle'
     },
     {
@@ -35,7 +35,7 @@ export const projectDetails = [
         logo: cuteLogo,
         desc: 'Cute Crypto is a responsive react website that demonstrates a crypto/NFT project.\n\nCreated an ethereum wallet connection method via EthersJS. \n\n This project was made to improve front-end design and understand responsive design.',
         tags: 'JavaScript · Solidity · React · NextJS · EthersJS',
-        websiteURL: '',
+        websiteURL: 'https://www.cutecrypto.online/',
         repoURL: 'https://github.com/crewgamble/Cute-Crypto'
     },
 ]
