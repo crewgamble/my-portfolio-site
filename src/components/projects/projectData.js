@@ -17,7 +17,7 @@ export const projectDetails = [
     {
         name: 'Mushroom Classification Neural Net',
         logo: mushroomLogo,
-        desc: 'This project contains the implementation of a simple neural network model designed to classify mushrooms into either edible or poisonous categories based on their characteristics. \n\nThe model is built using PyTorch, a popular deep learning library.',
+        desc: 'This project contains the implementation of a simple neural network model designed to classify mushrooms into either edible or poisonous categories based on their characteristics. \n\n Consistently classifies mushrooms with 100% accuracy! \n\nThe model is built using PyTorch, a popular deep learning library.',
         tags: 'Python · PyTorch · Matplotlib · Jupyter Notebook',
         websiteURL: '',
         repoURL: 'https://github.com/crewgamble/Mushroom-Neural-net'
@@ -33,7 +33,7 @@ export const projectDetails = [
     {
         name: 'Cute Crypto',
         logo: cuteLogo,
-        desc: 'Cute Crypto is a responsive react website that demonstrates a crypto/NFT project.\n\nCreated an ethereum wallet connection method via EthersJS. \n\n This project was made to improve front-end design and understand responsive design.',
+        desc: 'Cute Crypto is a responsive react website that demonstrates a crypto/NFT project.\n\nCreated an ethereum wallet connection method via EthersJS. \n\nThis project was made to improve front-end design and understand responsive design.',
         tags: 'JavaScript · Solidity · React · NextJS · EthersJS',
         websiteURL: 'https://www.cutecrypto.online/',
         repoURL: 'https://github.com/crewgamble/Cute-Crypto'
