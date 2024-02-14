@@ -11,7 +11,7 @@ export const projectDetails = [
         logo: doodleLogo,
         desc: 'Daily Doodle is a for fun web app that allows users to draw a daily prompt on a virtual canvas and quickly export their masterpiece. \n\nCreated with TypeScript and NextJS for practice and proficiency.',
         tags: 'TypeScript · React · CSS · NextJS ',
-        websiteURL: 'dailydoodle.lol',
+        websiteURL: 'https://www.dailydoodle.lol',
         repoURL: 'https://github.com/crewgamble/Daily-Doodle'
     },
     {
